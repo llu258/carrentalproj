@@ -41,7 +41,7 @@ To enhance the project further, consider the following improvements:
 
 ## 🛠️ **Technologies Used**
 
-- Frontend: HTML, CSS, JavaScript
+- Frontend: HTML, CSS, Bootstrap, JavaScript
 - Backend: PHP
 - Database: MySQL
 
